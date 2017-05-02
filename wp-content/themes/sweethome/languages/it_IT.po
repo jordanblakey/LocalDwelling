@@ -1,0 +1,3142 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SweetHome\n"
+"POT-Creation-Date: 2014-10-07 10:36+0700\n"
+"PO-Revision-Date: 2015-09-29 10:51+0200\n"
+"Last-Translator: Toàn Nguyễn <nttoanbrvt@gmail.com>\n"
+"Language-Team: MarsTheme.com <nttoanbrvt@gmail.com>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_;__();_e();_e\n"
+"X-Poedit-SearchPath-0: C:/Program Files (x86)/Zend/Apache2/htdocs/wp391/wp-"
+"content/themes/sweethome\n"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/404.php:8
+msgid "404 Error: not found!"
+msgstr "Errore 404: pagina non trovata!"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/404.php:9
+msgid ""
+"It seems we can not find what you are looking for. Perhaps searching can "
+"help."
+msgstr ""
+"Sembra che non riusciamo a trovare quello che stai cercando. Forse una "
+"ricerca può aiutarti."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/archive-property.php:11
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/archive.php:20
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/index.php:26
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/search.php:21
+msgid "Nothing Found."
+msgstr "Nessun risultato trovato."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:26
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:46
+msgid "Comment navigation"
+msgstr "Naviga i commenti"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:27
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:47
+msgid "&larr; Older Comments"
+msgstr "&larr; Vecchi Commenti"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:28
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:48
+msgid "Newer Comments &rarr;"
+msgstr "Nessun Commento &rarr;"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:53
+msgid "Comments are closed."
+msgstr "Commenti chiusi."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:61
+msgid "Leave a comment"
+msgstr "Lascia un commento."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:72
+msgid "Add your comment"
+msgstr "Aggiungi un tuo commento"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:73
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "Rispondi a %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:74
+msgid "Cancel Reply"
+msgstr "Cancella Risposta"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:75
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:79
+msgid "Send message"
+msgstr "Invia messaggio"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:78
+msgid "Message"
+msgstr "Messaggio"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:84
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Devi essere <a href=\"%s\">loggato</a> per postare un commento."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:90
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"Loggato come <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Esci da "
+"questo account\">Vuoi uscire?</a>"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:97
+msgid "Your email address will not be published."
+msgstr "La tua email non sarà pubblicata"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:105
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Agent_Table.php:12
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:19
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:84
+msgid "Name"
+msgstr "Nome"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:108
+msgid "e-mail"
+msgstr "e-mail"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/comments.php:111
+msgid "website"
+msgstr "sito web"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/content-agent.php:31
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/content-agent.php:33
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Agent.php:56
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Agent.php:58
+msgid "View full profile"
+msgstr "Vedi intero profilo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/content-agent.php:39
+msgid "View all property"
+msgstr "Vedi tutti gli immobili"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/content-page.php:12
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/content.php:38
+msgid "more"
+msgstr "altro"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/content-property.php:17
+msgid "featured"
+msgstr "in evidenza"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/content-property.php:31
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySlider.php:90
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-property.php:60
+msgid "Sq Ft"
+msgstr "Mq"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/content-property.php:34
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySlider.php:93
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-property.php:63
+msgid " Bathrooms"
+msgstr "Bagni"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/content-property.php:37
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:474
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:243
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySlider.php:96
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-property.php:66
+msgid "Bedrooms"
+msgstr "Camere da letto"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/content-property.php:41
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySlider.php:104
+msgid "Details"
+msgstr "Dettagli"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/content.php:18
+msgid "no comment"
+msgstr "nessun commento"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/content.php:18
+msgid "1 comment"
+msgstr "1 commento"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/content.php:18
+#, php-format
+msgid "% comments"
+msgstr "% commenti"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/content.php:18
+msgid "Comment Off"
+msgstr "Commento chiuso"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/content.php:28
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Continua a leggere <span class=\"meta-nav\">&rarr;</span>"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/content.php:42
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:198
+msgid "Tags"
+msgstr "Tags"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/content.php:47
+msgid "Categories"
+msgstr "Categorie"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/content.php:50
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:36
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:75
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:113
+msgid "Edit"
+msgstr "Edita"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/extensions/customizer/extension_customizer.php:467
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:1761
+msgid "You have changes that are not saved. Would you like to save them now?"
+msgstr "Hai modifiche non salvate. Volete salvarle ora?"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/extensions/customizer/extension_customizer.php:468
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:1769
+msgid "Are you sure? Resetting will lose all custom values."
+msgstr "Sei sicuro? Il ripristino perderà tutti i dati personalizzati."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/extensions/customizer/extension_customizer.php:469
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:1785
+msgid ""
+"Your current options will be replaced with the values of this preset. Would "
+"you like to proceed?"
+msgstr ""
+"Le opzioni correnti verranno sostituite con i valori di questo settaggio. "
+"Volete continuare?"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/extensions/customizer/extension_customizer.php:502
+msgid "You have changes that are not saved.  Would you like to save them now?"
+msgstr "Hai modifiche non salvate. Volete salvarle ora?"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/extensions/customizer/extension_customizer.php:503
+msgid "Are you sure?  Resetting will lose all custom values."
+msgstr "Sei sicuro? Il ripristino perderà tutti i valori personalizzati."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/extensions/customizer/extension_customizer.php:504
+msgid ""
+"Your current options will be replaced with the values of this preset.  Would "
+"you like to proceed?"
+msgstr ""
+"Le opzioni correnti verranno sostituiti con i valori di questo settaggio. "
+"Volete continuare?"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:172
+#, php-format
+msgid "Options panel created using %1$s"
+msgstr "Opzioni del pannello create utilizzando %1$s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:172
+msgid "Redux Framework"
+msgstr "Redux Framework"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:176
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:180
+msgid "Options"
+msgstr "opzioni"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:1218
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:1219
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3363
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3442
+msgid "System Info"
+msgstr "System Info"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:1777
+msgid "Are you sure? Resetting will lose all custom values in this section."
+msgstr ""
+"Sei sicuro? Il ripristino perderà tutti i valori personalizzati in questa "
+"sezione."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:1792
+msgid "Please Wait"
+msgstr "Attendere Prego"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:1938
+msgid "Hints"
+msgstr "Suggerimenti"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:1939
+msgid "<p>"
+msgstr "<p>"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:2063
+msgid "Default"
+msgstr "Default"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3115
+msgid "Warning- This options panel will not work properly without javascript!"
+msgstr ""
+"Avviso- Questo pannello delle opzioni non funzionerà correttamente senza "
+"javascript!"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3189
+msgid "Expand"
+msgstr "Espandi"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3191
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3499
+msgid "Save Changes"
+msgstr "Salva cambiamenti"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3195
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3503
+msgid "Reset Section"
+msgstr "Resetta sezione"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3197
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3505
+msgid "Reset All"
+msgstr "Resetta tutto"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3202
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3510
+msgid "Working..."
+msgstr "Sto lavorando..."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3222
+msgid "Settings Imported!"
+msgstr "Settaggi importati!"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3237
+msgid "All Defaults Restored!"
+msgstr "Tutto Resettato come di default!"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3251
+msgid "Section Defaults Restored!"
+msgstr "Sezione resettata come di default!"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3265
+msgid "Settings Saved!"
+msgstr "Settaggi salvati!"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3283
+msgid "Settings have changed, you should save them!"
+msgstr "I settaggi sono stati cambiati, puoi salvarli ora!"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3291
+msgid "error(s) were found!"
+msgstr "errore(i) trovati!"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/framework.php:3299
+msgid "warning(s) were found!"
+msgstr "attenzione ... problemi riscontrati!"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/class.redux_filesystem.php:22
+msgid "Unable to create a required directory. Please ensure that"
+msgstr "Non abilitato a creare directory. Prima assicurati del funzionamento"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/class.redux_filesystem.php:24
+msgid ""
+"has the proper read/write permissions or enter your FTP information below."
+msgstr ""
+"hai le autorizzazioni appropriate di lettura / scrittura o inserire le "
+"informazioni qui di seguito FTP."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/class.redux_functions.php:252
+msgid "Dismiss"
+msgstr "Dismesso"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/debug.php:41
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/debug.php:69
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/debug.php:76
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/debug.php:77
+msgid "Options Object"
+msgstr "Opzioni dell'oggetto"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/debug.php:54
+msgid "Show Object in Javascript Console Object"
+msgstr "Mostra oggetto in JavaScript Object Console"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/background/field_background.php:124
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/color/field_color.php:72
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:79
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:91
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/color_rgba/field_color_rgba.php:77
+msgid "Transparent"
+msgstr "Trasparente"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/background/field_background.php:141
+msgid "Background Repeat"
+msgstr "Ripeti sfondo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/background/field_background.php:157
+msgid "Background Clip"
+msgstr "Clip di sfondo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/background/field_background.php:173
+msgid "Background Origin"
+msgstr "Sfondo originale"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/background/field_background.php:188
+msgid "Background Size"
+msgstr "Dimensioni sfondo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/background/field_background.php:203
+msgid "Background Attachment"
+msgstr "Allegato di sfondo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/background/field_background.php:223
+msgid "Background Position"
+msgstr "Posizione dello sfondo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/background/field_background.php:277
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/media/field_media.php:112
+msgid "No media selected"
+msgstr "Nessun media selezionato"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/background/field_background.php:314
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/media/field_media.php:154
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/slides/field_slides.php:126
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/slides/field_slides.php:188
+msgid "Upload"
+msgstr "Caricamento"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/background/field_background.php:321
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/media/field_media.php:161
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:68
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:72
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:75
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/slides/field_slides.php:133
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/slides/field_slides.php:190
+msgid "Remove"
+msgstr "Rimuovi"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/border/field_border.php:114
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/spacing/field_spacing.php:191
+msgid "All"
+msgstr "Tutti"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/border/field_border.php:127
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/spacing/field_spacing.php:215
+msgid "Top"
+msgstr "Sopra"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/border/field_border.php:134
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/spacing/field_spacing.php:222
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:522
+msgid "Right"
+msgstr "Destra"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/border/field_border.php:141
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/spacing/field_spacing.php:229
+msgid "Bottom"
+msgstr "Sotto"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/border/field_border.php:148
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/spacing/field_spacing.php:236
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:521
+msgid "Left"
+msgstr "Sinistra"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/border/field_border.php:162
+msgid "Border style"
+msgstr "Stile del bordo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:68
+msgid "From "
+msgstr "Da"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/color_gradient/field_color_gradient.php:82
+msgid "To "
+msgstr "A"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:161
+msgid "Width"
+msgstr "Larghezza"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:177
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:455
+msgid "Height"
+msgstr "Altezza"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:188
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/dimensions/field_dimensions.php:189
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/spacing/field_spacing.php:245
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/spacing/field_spacing.php:246
+msgid "Units"
+msgstr "Unità"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/gallery/field_gallery.php:73
+msgid "Add/Edit Gallery"
+msgstr "Aggiungi/modifica Galleria"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/gallery/field_gallery.php:74
+msgid "Clear Gallery"
+msgstr "Cancella galleria"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/group/field_group.php:79
+msgid "New "
+msgstr "Nuovo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/group/field_group.php:122
+msgid "Delete"
+msgstr "Cancella"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/group/field_group.php:126
+msgid "Add"
+msgstr "Aggiungi"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/import_export/import_export.php:77
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/import_export.php:78
+msgid "Import / Export Options"
+msgstr "Opzioni Importa / Esporta"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/import_export/import_export.php:80
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/import_export.php:81
+msgid "Import Options"
+msgstr "Opzioni di importazione"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/import_export/import_export.php:81
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/import_export.php:82
+msgid "Import from file"
+msgstr "Importa da file"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/import_export/import_export.php:81
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/import_export.php:82
+msgid "Import from URL"
+msgstr "Importa da url"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/import_export/import_export.php:85
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/import_export.php:85
+msgid ""
+"Input your backup file below and hit Import to restore your sites options "
+"from a backup."
+msgstr ""
+"Ingresso il tuo file di backup sotto e premi Importa per ripristinare le "
+"opzioni di siti da un backup."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/import_export/import_export.php:93
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/import_export.php:90
+msgid ""
+"Input the URL to another sites options set and hit Import to load the "
+"options from that site."
+msgstr ""
+"Inserire l'URL di un altro opzioni siti impostare e colpire Importa per "
+"caricare le opzioni da quel sito."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/import_export/import_export.php:99
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/import_export.php:94
+msgid "Import"
+msgstr "Importa"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/import_export/import_export.php:99
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/import_export.php:94
+msgid ""
+"WARNING! This will overwrite all existing option values, please proceed with "
+"caution!"
+msgstr ""
+"ATTENZIONE! Questo sovrascriverà tutti i valori delle opzioni esistenti, "
+"procedere con cautela!"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/import_export/import_export.php:102
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/import_export.php:97
+msgid "Export Options"
+msgstr "Opzioni di esportazione"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/import_export/import_export.php:105
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/import_export.php:100
+msgid ""
+"Here you can copy/download your current option settings. Keep this safe as "
+"you can use it as a backup should anything go wrong, or you can use it to "
+"restore your settings on this site (or any other site)."
+msgstr ""
+"Qui è possibile copiare / scaricare le impostazioni delle opzioni correnti. "
+"Tenere questo sicuro come si può utilizzare come backup se qualcosa dovesse "
+"andare storto, oppure è possibile utilizzare per ripristinare le "
+"impostazioni su questo sito (o qualsiasi altro sito)."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/import_export/import_export.php:109
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/import_export.php:104
+msgid "Copy"
+msgstr "Copia"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/import_export/import_export.php:109
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/import_export.php:104
+msgid "Download"
+msgstr "Scarica"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/import_export/import_export.php:109
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/import_export.php:104
+msgid "Copy Link"
+msgstr "Copia link"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/import_export/import_export.php:156
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/import_export/import_export.php:165
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/import_export/import_export.php:166
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/import_export.php:140
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/import_export.php:149
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/import_export.php:150
+msgid "Import / Export"
+msgstr "Importa / Esporta"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/link_color/field_link_color.php:87
+msgid "Regular"
+msgstr "Regolare"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/link_color/field_link_color.php:91
+msgid "Hover"
+msgstr "Sopra"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/link_color/field_link_color.php:95
+msgid "Visited"
+msgstr "Visitato"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/link_color/field_link_color.php:99
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:442
+msgid "Active"
+msgstr "attivo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/multi_text/field_multi_text.php:60
+msgid "Add More"
+msgstr "Aggiungi altro"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/password/field_password.php:62
+msgid "Password"
+msgstr "Password"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/password/field_password.php:63
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:627
+msgid "Username"
+msgstr "Username"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/select/field_select.php:82
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/select_image/field_select_image.php:62
+msgid "Select an item"
+msgstr "Seleziona una voce"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/select/field_select.php:126
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/select_image/field_select_image.php:143
+msgid "No items of this type were found."
+msgstr "Nessuna voce di questo tipo è stata trovata."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/slides/field_slides.php:68
+msgid "Slide"
+msgstr "Slide"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/slides/field_slides.php:73
+#, php-format
+msgid "New %s"
+msgstr "New %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/slides/field_slides.php:145
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/slides/field_slides.php:200
+msgid "Title"
+msgstr "Titolo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/slides/field_slides.php:149
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/slides/field_slides.php:204
+msgid "Description"
+msgstr "Descrizione"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/slides/field_slides.php:153
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/slides/field_slides.php:207
+msgid "URL"
+msgstr "URL"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/slides/field_slides.php:167
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/slides/field_slides.php:220
+#, php-format
+msgid "Delete %s"
+msgstr "Cancella %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/slides/field_slides.php:223
+#, php-format
+msgid "Add %s"
+msgstr "Aggiungi %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/switch/field_switch.php:41
+msgid "On"
+msgstr "On"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/switch/field_switch.php:44
+msgid "Off"
+msgstr "Off"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:256
+msgid "Font Family"
+msgstr "Font Family"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:257
+msgid "Font family"
+msgstr "Font family"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:283
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:284
+msgid "Backup Font Family"
+msgstr "Backup Font Family"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:298
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:305
+msgid "Font style"
+msgstr "Font style"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:299
+msgid "Font Weight &amp; Style"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:305
+msgid "Style"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:335
+msgid "Font subsets"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:337
+msgid "Font Subsets"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:338
+msgid "Subsets"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:338
+msgid "Font script"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:355
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:356
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:357
+msgid "Text Align"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:378
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:379
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:380
+msgid "Text Transform"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:401
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:402
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:403
+msgid "Font Variant"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:421
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:422
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:423
+msgid "Text Decoration"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:445
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:446
+msgid "Font Size"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:446
+msgid "Size"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:454
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:455
+msgid "Line Height"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:463
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:464
+msgid "Word Spacing"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:472
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:473
+msgid "Letter Spacing"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:491
+msgid "Font Color"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:493
+msgid "Font color"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:822
+msgid "Standard Fonts"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/fields/typography/field_typography.php:929
+msgid "Google Webfonts"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:130
+msgid "Help improve Our Panel"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:131
+msgid ""
+"Please helps us improve our panel by allowing us to gather anonymous usage "
+"stats so we know which configurations, plugins and themes to test to ensure "
+"compatability."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:136
+msgid "Allow tracking"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:141
+msgid "Do not allow tracking"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:152
+msgid "Welcome to the Redux Demo Panel"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:153
+msgid "Getting Started"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:153
+#, php-format
+msgid ""
+"This panel demonstrates the many features of Redux.  Before digging in, we "
+"suggest you get up to speed by reviewing %1$s."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:153
+msgid "our documentation"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:154
+msgid "Redux Generator"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:154
+#, php-format
+msgid ""
+"Want to get a head start? Use the %1$s. It will create a customized "
+"boilerplate theme or a standalone admin folder complete with all things "
+"Redux (with the help of Underscores and TGM). Save yourself a headache and "
+"try it today."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:155
+msgid "Redux Extensions"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:155
+#, php-format
+msgid ""
+"Did you know we have extensions, which greatly enhance the features of "
+"Redux?  Visit our %1$s to learn more!"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:155
+msgid "extensions directory"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:156
+msgid "Like Redux?"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:156
+#, php-format
+msgid ""
+"If so, please %1$s and consider making a %2$s to keep development of Redux "
+"moving forward."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:156
+msgid "leave us a favorable review on WordPress.org"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:156
+msgid "donation"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:157
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_SubscribeForm.php:47
+msgid "Newsletter"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:157
+msgid ""
+"If you'd like to keep up to with all things Redux, please subscribe to our "
+"newsletter"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:158
+msgid "Email address"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:158
+msgid "Subscribe"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/tracking.php:167
+msgid "Close"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/validation/color/validation_color.php:15
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/validation/color_rgba/validation_color_rgba.php:14
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/validation/colorrgba/validation_colorrgba.php:16
+msgid "This field must be a valid color value."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/validation/comma_numeric/validation_comma_numeric.php:16
+msgid ""
+"You must provide a comma separated list of numerical values for this option."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/validation/date/validation_date.php:16
+msgid "This field must be a valid date."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/validation/email/validation_email.php:16
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/validation/email_not_empty/validation_email_not_empty.php:16
+msgid "You must provide a valid email for this option."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/validation/no_html/validation_no_html.php:15
+msgid ""
+"You must not enter any HTML in this field, all HTML tags have been removed."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/validation/no_special_chars/validation_no_special_chars.php:16
+msgid ""
+"You must not enter any special characters in this field, all special "
+"characters have been removed."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/validation/not_empty/validation_not_empty.php:16
+msgid "This field cannot be empty. Please provide a value."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/validation/numeric/validation_numeric.php:16
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/validation/numeric_not_empty/validation_numeric_not_empty.php:16
+msgid "You must provide a numerical value for this option."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/ReduxCore/inc/validation/url/validation_url.php:16
+msgid "You must provide a valid URL for this option."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/class.redux-plugin.php:306
+msgid "Redux Framework has an embedded demo."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/class.redux-plugin.php:306
+msgid "Click here to activate the sample config file."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/class.redux-plugin.php:407
+msgid "Repo"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/class.redux-plugin.php:408
+msgid "Generator"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/class.redux-plugin.php:409
+msgid "Issues"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/class.redux-plugin.php:410
+msgid "Documentation"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/class.redux-plugin.php:415
+msgid "Deactivate Demo Mode"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/class.redux-plugin.php:417
+msgid "Activate Demo Mode"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:99
+msgid "Section via hook"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:100
+msgid ""
+"<p class=\"description\">This is a section created by adding a filter to the "
+"sections array. Can be used by child themes to add/remove sections from the "
+"options.</p>"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:178
+#, php-format
+msgid "Customize &#8220;%s&#8221;"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:196
+#, php-format
+msgid "By %s"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:197
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:203
+#, php-format
+msgid "This <a href=\"%1$s\">child theme</a> requires its parent theme, %2$s."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:203
+msgid "http://codex.wordpress.org/Child_Themes"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:228
+msgid "General"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:235
+msgid "Blog Layout"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:267
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:283
+msgid "Upload any media using the WordPress native uploader"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:269
+msgid "Header Background"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:284
+msgid "Favicon"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:289
+msgid "Do not display the Breadcrumb on Homepage"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:290
+msgid "Breadcrumb"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:296
+msgid "Custom CSS"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:297
+msgid "Paste your CSS code here, no style tag."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:304
+msgid "Custom JS"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:305
+msgid "Paste your JS code here, no script tag, eg: alert('hello world');"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:311
+msgid "Footer Text"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:317
+msgid "Google Analytics ID"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:325
+msgid "Slug Rewrite"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:326
+#, php-format
+msgid "You may go to %s, click Save Changes button after make this changes."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:326
+msgid "Permalink Settings"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:330
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:15
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:31
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:32
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:33
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:135
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:172
+msgid "Property"
+msgstr "Immobile"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:336
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:176
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Property_Table.php:11
+msgid "Agent"
+msgstr "Agente"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:342
+msgid "Property Type"
+msgstr "Tipo immobile"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:348
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-property.php:82
+msgid "Property Location"
+msgstr "Posizione dell'immobile"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:354
+msgid "Property Tag"
+msgstr "Tag dell'immobile"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:360
+msgid "Property Status"
+msgstr "Stato dell'immobile"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:368
+msgid "Apperance"
+msgstr "Apparenza"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:374
+msgid "Body Background"
+msgstr "Sfondo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:375
+msgid "Body background with image, color, etc."
+msgstr "Sfondo con immagine, colore, ecc."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:381
+msgid "Top Bar Background"
+msgstr "Sfondo Topbar"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:382
+msgid "Pick a background color for the Top Bar."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:389
+msgid "Menu Background"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:390
+msgid "Pick a background color for the menu."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:397
+msgid "Menu Text Color"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:398
+msgid "Pick a color for the Text menu."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:405
+msgid "Active Menu Text color"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:406
+msgid "Pick a background color for the active menu Text."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:413
+msgid "Footer Background"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:414
+msgid "Pick a background for the Footer."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:421
+msgid "Footer Strip Background"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:422
+msgid "Pick a background for the Footer Strip."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:429
+msgid "Footer Text Color"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:430
+msgid "Pick a color for Text in the footer."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:437
+msgid "Contact Form"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:443
+msgid "Active the form."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:449
+msgid "Display this alert if the form is deactivated."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:451
+msgid "Coming soon."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:455
+msgid "Admin email"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:456
+msgid "This address receive the message through the Contact Form Widget."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:457
+msgid "adsad"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:463
+msgid "Subject"
+msgstr "Soggetto"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:464
+msgid "The subject of the message."
+msgstr "Soggetto del messaggio."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:466
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Ajax.php:61
+#, php-format
+msgid "New message from %s"
+msgstr "Nuovo messaggio da %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:470
+msgid "Sender's message was sent successfully"
+msgstr "Messaggio del mittente inviato con successo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:472
+msgid "Your message was sent successfully. Thanks."
+msgstr "Messaggio inviato correttamente. Grazie."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:476
+msgid "Sender's message was failed to send"
+msgstr "Messaggio del mittente fallito e non inviato."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:478
+msgid ""
+"Failed to send your message. Please try later or contact the administrator "
+"by another method."
+msgstr "Invio messaggio fallito. Riprova o contatta l'amministratore del sito."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:482
+msgid "Validation errors occurred"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:484
+msgid ""
+"Validation errors occurred. Please confirm the fields and submit it again."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:488
+msgid "Name field Validation"
+msgstr "Convalida del Campo Nome"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:490
+msgid "Please fill the Name."
+msgstr "Prego inserisci il Nome."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:494
+msgid "Email field Validation"
+msgstr "Convalida del Campo Email"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:496
+msgid "Please fill the Email."
+msgstr "Prego inserisci l'Email."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:500
+msgid "Content field Validation"
+msgstr "Convalida del Campo Messaggio"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:502
+msgid "Please fill the message content."
+msgstr "Prego inserisci il messaggio."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:507
+msgid "Pricing Options"
+msgstr "Opzioni del Prezzo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:512
+msgid "Currency"
+msgstr "Valuta"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:518
+msgid "Currency Position"
+msgstr "Posizione Valuta"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:528
+msgid "Thousand Separator"
+msgstr "Separatore migliaia"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:534
+msgid "Decimal Separator"
+msgstr "Separatore decimali"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:542
+msgid "Company"
+msgstr "Azienda"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:546
+msgid "Address"
+msgstr "Indirizzo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:548
+msgid "Enter the company address."
+msgstr "Indirizzo azienda"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:552
+msgid "Hotline/Mobile"
+msgstr "Cellulare o altra linea dedicata"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:554
+msgid "Enter the Hotline/Mobile number."
+msgstr "Inserisci Cellulare o altra linea dedicata"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:558
+msgid "Telephone"
+msgstr "Telefono"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:560
+msgid "Enter the Telephone number."
+msgstr "Inserisci il numero di telefono"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:564
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Agent_Table.php:16
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:55
+msgid "Fax"
+msgstr "Fax"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:566
+msgid "Enter the Fax number."
+msgstr "Numero di Fax"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:570
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:31
+msgid "Email Address"
+msgstr "Indirizzo Email"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:573
+msgid "Enter the company email address."
+msgstr "Inserisci indirizzo Email Aziendale"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:579
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:67
+msgid "Socials"
+msgstr "Socials"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:583
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:165
+msgid "Facebook"
+msgstr "Facebook"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:585
+msgid "Put the Facebook link."
+msgstr "Inserisci link Facebook"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:589
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:166
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:591
+msgid "Put the Google Plus link"
+msgstr "Inserisci link Google Plus"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:595
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:167
+msgid "Twitter"
+msgstr "Twitter"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:597
+msgid "Put the Twitter link"
+msgstr "Inserisci link Twitter"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:601
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:168
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:603
+msgid "Put the Pinterest link"
+msgstr "Inserisci link Pinterest"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:607
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:169
+msgid "Dribbble"
+msgstr "Dribbble"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:609
+msgid "Put the Dribbble link"
+msgstr "Inserisci link Dribbble"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:613
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:170
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:615
+msgid "Put the Linkedin link"
+msgstr "Inserisci link Linkedin"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:620
+msgid "Update"
+msgstr "Aggiorna"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:622
+msgid "Provide the Username and API key to receive the automatic update."
+msgstr "Fornisci Username and API key per ricevere aggiornamenti automatici."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:628
+msgid "Your Themeforest's Username"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:633
+msgid "API Key"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:634
+msgid "Your Themeforest's API key"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:644
+msgid "Theme Information 1"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:645
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:651
+msgid "<p>This is the tab content, HTML is allowed.</p>"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:650
+msgid "Theme Information 2"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:655
+msgid "<p>This is the sidebar content, HTML is allowed.</p>"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:675
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:676
+msgid "Theme Options"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:720
+#, php-format
+msgid ""
+"<p>Did you know that Redux sets a global variable for you? To access any of "
+"your saved options from within your code you can use your global variable: "
+"<strong>$%1$s</strong></p>"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/framework/config.php:722
+msgid ""
+"<p>This text is displayed above the options panel. It isn't required, but "
+"more info is always better! The intro_text field accepts all HTML.</p>"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/functions.php:139
+msgid "Home Page Navigation"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/functions.php:152
+msgid "Right Post/Page Sidebar"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/functions.php:154
+msgid "Display the widgets on the Right Post/Page/Category/Archive Sidebar"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/functions.php:163
+msgid "Right Property Sidebar"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/functions.php:165
+msgid "Display the widgets on the Right Property Sidebar"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/functions.php:174
+msgid "Right Agent Sidebar"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/functions.php:176
+msgid "Display the widgets on the Right Agent Sidebar"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/functions.php:185
+msgid "Header Sidebar"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/functions.php:187
+msgid "Display the Breadcrumb/Property Slider"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/functions.php:196
+msgid "Footer Sidebar"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/functions.php:198
+msgid "Display the widgets on the Footer Sidebar"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/header.php:62
+msgid "Toggle navigation"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/header.php:89
+msgid "Home"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/header.php:90
+msgid "Buy Now"
+msgstr "Acquista Ora"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/Required_Plugins.php:58
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:196
+msgid "Install Required Plugins"
+msgstr "Installa Plugin necessari"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/Required_Plugins.php:59
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:197
+msgid "Install Plugins"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/Required_Plugins.php:60
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:198
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/Required_Plugins.php:61
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/Required_Plugins.php:72
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:210
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/Required_Plugins.php:73
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:212
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1951
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/Required_Plugins.php:74
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Agent_Table.php:13
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:269
+msgid "Image"
+msgstr "Immagine"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Agent_Table.php:14
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:86
+msgid "Email"
+msgstr "Email"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Agent_Table.php:15
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:43
+msgid "Phone"
+msgstr "Telefono"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Agent_Table.php:17
+msgid "Property(s)"
+msgstr "Immobile(i)"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Ajax.php:63
+#, php-format
+msgid "From: %s"
+msgstr "Da: %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Ajax.php:64
+#, php-format
+msgid "Email: %s"
+msgstr "Email: %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Ajax.php:65
+#, php-format
+msgid "Website: %s"
+msgstr "Sito web: %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:34
+msgid "Add Property"
+msgstr "Aggiungi Immobile"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:35
+msgid "Add New Property"
+msgstr "Aggiungi Nuovo Immobile"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:37
+msgid "Edit Property"
+msgstr "Modifica Immobile"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:38
+msgid "New Property"
+msgstr "Nuovo Immobile"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:39
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:40
+msgid "View Property"
+msgstr "Vedi Immobile"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:41
+msgid "Search Property"
+msgstr "Cerca Immobile"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:42
+msgid "No Property Found"
+msgstr "Nessun Immobile Trovato"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:43
+msgid "No Property Found in Trash"
+msgstr "Nessun Immobile nel Cestino"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:44
+msgid "Parent Property"
+msgstr "Immobile Associato"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:55
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:70
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:71
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:72
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:15
+msgid "Agents"
+msgstr "Agenti"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:73
+msgid "Add Agents"
+msgstr "Aggiungi Agenti"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:74
+msgid "Add New Agents"
+msgstr "Aggiungi Nuovi Agenti"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:76
+msgid "Edit Agents"
+msgstr "Modifica Agenti"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:77
+msgid "New Agents"
+msgstr "Nuovi Agenti"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:78
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:79
+msgid "View Agents"
+msgstr "Vedi Agenti"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:80
+msgid "Search Agents"
+msgstr "Cerca Agenti"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:81
+msgid "No Agents Found"
+msgstr "Nessun Agente Trovato"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:82
+msgid "No Agents Found in Trash"
+msgstr "Nessun Agente Trovato nel Cestino"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:83
+msgid "Parent Agents"
+msgstr "Agenti Associati"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:94
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:108
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:109
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:110
+msgid "Services"
+msgstr "Servizi"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:111
+msgid "Add Services"
+msgstr "Aggiungi Servizi"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:112
+msgid "Add New Services"
+msgstr "Aggiungi Nuovi Servizi"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:114
+msgid "Edit Services"
+msgstr "Modifica Servizi"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:115
+msgid "New Services"
+msgstr "Nuovi Servizi"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:116
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:117
+msgid "View Services"
+msgstr "Vedi Servizi"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:118
+msgid "Search Services"
+msgstr "Cerca Servizi"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:119
+msgid "No Services Found"
+msgstr "Nessun Servizio Trovato"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:120
+msgid "No Services Found in Trash"
+msgstr "Nessun Servizio Trovato nel Cestino"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_CPT.php:121
+msgid "Parent Services"
+msgstr "Servizi Associati"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:15
+msgid "&laquo;%title"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:16
+msgid "%title&raquo;"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:51
+msgid "Pages:"
+msgstr "Pagine:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:126
+#, php-format
+msgid "Page %s"
+msgstr "Pagine %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:134
+msgid "Post"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:142
+msgid "DESC"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:143
+msgid "ASC"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:150
+msgid "Order by Post ID"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:151
+msgid "Order by author"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:152
+msgid "Order by title"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:153
+msgid "Order by Post name (Post slug)"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:154
+msgid "Order by date"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:155
+msgid "Order by last modified date"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:156
+msgid "Order by Random"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:157
+msgid "Order by number of comments"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:229
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:230
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:28
+msgid "out of 5"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:234
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:236
+msgid "Reply"
+msgstr "Rispondi"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:239
+msgid "Your comment is awaiting moderation."
+msgstr "Il tuo commento è in attesa di moderazione."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:451
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySearch.php:35
+msgid "Any"
+msgstr "Qualsiasi"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:472
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:208
+msgid "Sq ft"
+msgstr "Mq"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:473
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:233
+msgid "Bathrooms"
+msgstr "Bagni"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:475
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:253
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySlider.php:99
+msgid "Garages"
+msgstr "Garages"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:476
+msgid "Min Price"
+msgstr "Prezzo Minimo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:477
+msgid "Max Price"
+msgstr "Prezzo Massimo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:486
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:504
+msgid "Put the Class name"
+msgstr "Inserisci il nme della classe"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:488
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:507
+msgid "example: fa-home or fa-building-o"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:555
+msgid "Property listing"
+msgstr "Lista Immobili"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:558
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingAgents.php:66
+msgid "Our agents"
+msgstr "i Nostri Agenti"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:564
+msgid "Browsing Search"
+msgstr "Navigazione Ricerca"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:567
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:570
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:573
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:579
+msgid "404 Error"
+msgstr "Errore 404"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Functions.php:582
+msgid "Shop"
+msgstr "Negozio"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:73
+msgid "Profile"
+msgstr "Profilo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:84
+msgid "Link"
+msgstr "Link"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:99
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:281
+msgid "Add Row"
+msgstr "Aggiungi Riga"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:103
+msgid "External Profile"
+msgstr "Profilo Esterno"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:137
+msgid "Property Image"
+msgstr "Immagine Immobile"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:141
+msgid "Large Image"
+msgstr "Immagine Grande"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:144
+msgid ""
+"This image should be large, it will be used as the slider if you setup it up "
+"on the Widget Slider."
+msgstr ""
+"Questa immagine dovrebbe essere grande, sarà utilizzato come il cursore se "
+"si imposta su sul Widget Slider."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:190
+msgid "Featured"
+msgstr "in Evidenza"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:198
+msgid "Location"
+msgstr "Location"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:220
+msgid "Price"
+msgstr "Prezzo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:263
+msgid "Gallery"
+msgstr "Gallery"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:310
+msgid "Sub Title"
+msgstr "Sottotitolo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:322
+msgid "Class"
+msgstr "Classe"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:331
+#, php-format
+msgid "Check all icon class %s"
+msgstr "Seleziona tutte le icone della classe %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:331
+msgid "here"
+msgstr "qui"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:335
+msgid "Read more link"
+msgstr "Leggi altro link"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_MetaBox.php:370
+msgid "None"
+msgstr "Nessuno"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Taxonomy.php:22
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Taxonomy.php:27
+msgid "Property type"
+msgstr "Tipo Immobile"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Taxonomy.php:54
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Taxonomy.php:59
+msgid "Locations"
+msgstr "Posizione"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Taxonomy.php:85
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Taxonomy.php:90
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-property.php:72
+msgid "Additional Features"
+msgstr "Evidenze Addizionali"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Taxonomy.php:117
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Taxonomy.php:122
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1380
+msgid "Status"
+msgstr "Stato"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Taxonomy_Filter.php:23
+#, php-format
+msgid "All %s"
+msgstr "Tutti %s"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Taxonomy_Filter.php:64
+msgid "All Agents"
+msgstr "Tutti gli Agenti"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Agent.php:11
+msgid "display the Agent on the left/right sidebar in Property single page."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Agent.php:15
+msgid "SWH Widget Agent (Listed by)"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Agent.php:72
+msgid "Listed By"
+msgstr "Listato per"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Agent.php:77
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactForm.php:61
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactInfo.php:69
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactUs.php:65
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingAgents.php:76
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingPosts.php:127
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Property.php:99
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Services_Block.php:73
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_SubscribeForm.php:54
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:238
+msgid "Title:"
+msgstr "Titolo"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactForm.php:11
+msgid "display the Contact Form."
+msgstr "Mostra Form di Contatto"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactForm.php:15
+msgid "SWH Contact Form"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactForm.php:56
+msgid "Get in touch"
+msgstr "Modulo Elettronico"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactInfo.php:11
+msgid "display the Contact Info Widget at Footer."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactInfo.php:15
+msgid "SWH Contact Info"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactInfo.php:61
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactUs.php:57
+msgid "Contact Info"
+msgstr "Informazioni di Contatto"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactInfo.php:73
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_SubscribeForm.php:58
+msgid "Text:"
+msgstr "Testo:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactInfo.php:77
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactUs.php:69
+msgid "Phone:"
+msgstr "Telefono:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactInfo.php:81
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactUs.php:73
+msgid "Email:"
+msgstr "Email:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactInfo.php:85
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactUs.php:77
+msgid "Fax:"
+msgstr "Fax:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactUs.php:11
+msgid "display the Contact Widget at Footer."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_ContactUs.php:15
+msgid "SWH Contact Us"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_GoogleMap.php:11
+msgid "display the Google Map in The Contact Page."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_GoogleMap.php:15
+msgid "SWH Google Map"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_GoogleMap.php:59
+msgid "Lat:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_GoogleMap.php:63
+msgid "Lng:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingAgents.php:11
+msgid "display the Agents listing on the homepage."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingAgents.php:15
+msgid "SWH Main Agents Listing"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingAgents.php:80
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingPosts.php:176
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Property.php:112
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:306
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:378
+msgid "Orderby:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingAgents.php:93
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingPosts.php:189
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Property.php:125
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:319
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:391
+msgid "Order:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingAgents.php:106
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingPosts.php:202
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Property.php:138
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:412
+msgid "Limit:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingPosts.php:11
+msgid "display the Property listing on the homepage."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingPosts.php:15
+msgid "SWH Main Property Listing"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingPosts.php:114
+msgid "Recent Listings"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingPosts.php:131
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySlider.php:141
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:261
+msgid "Featured:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingPosts.php:133
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySlider.php:143
+msgid "Only display the Featured property."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingPosts.php:165
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:296
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:368
+#, php-format
+msgid "Put the %s slug, separated by a common(,)"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingPosts.php:206
+msgid "Class:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingPosts.php:210
+msgid "Margin Top:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_MainListingPosts.php:214
+msgid "Margin Bottom:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Property.php:11
+msgid "display the Property listing on left/right sidebar."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Property.php:15
+msgid "SWH Property Listing"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Property.php:89
+msgid "Property Listings"
+msgstr "Lista Immobili"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Property.php:103
+msgid "Related Property:"
+msgstr "Immobili Simili"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Property.php:105
+msgid ""
+"Displaying the Related Property of current Agent in Property Single page."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Property.php:108
+msgid "Displaying the Price:"
+msgstr "Mostra il Prezzo:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySearch.php:12
+msgid "SWH Property Search Form"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySearch.php:16
+msgid "SWH Property Search"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySearch.php:75
+msgid "Search"
+msgstr "Cerca"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySearch.php:123
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySearch.php:139
+msgid "Label"
+msgstr "Etichetta"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySearch.php:141
+msgid "Selector"
+msgstr "Selettore"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySlider.php:12
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySlider.php:16
+msgid "SWH Property Slider"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySlider.php:146
+msgid "Large Image:"
+msgstr "Immagine Grande"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySlider.php:148
+msgid "Only display the Large image Property."
+msgstr "OMostra solo Immobili con immagini grandi."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySlider.php:177
+#, php-format
+msgid "Put the \"%s\" ID, separated by the common(,)"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_PropertySlider.php:185
+msgid "Shows:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Services_Block.php:11
+msgid "display the Service Block."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Services_Block.php:15
+msgid "SWH Service Block"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Services_Block.php:51
+msgid "+ read more"
+msgstr "+ leggi altro"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Services_Block.php:67
+msgid "Our Services"
+msgstr "I Nostri Servizi"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_SubscribeForm.php:11
+msgid "display the Subscribe/Newletter form at Footer."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_SubscribeForm.php:15
+msgid "SWH Subscribe Form"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_SubscribeForm.php:29
+msgid "E-mail"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_SubscribeForm.php:30
+msgid "Submit"
+msgstr "Invia"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_SubscribeForm.php:62
+msgid "Form method:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_SubscribeForm.php:74
+msgid "Action Link:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_SubscribeForm.php:76
+msgid ""
+"Using the external link if you want to handle the data on other website or "
+"leave blank for default."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:11
+msgid "display the Tabbed Posts/Property."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:15
+msgid "SWH Tabbed Posts/Property"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:53
+msgid "Popular"
+msgstr "Popolare"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:56
+msgid "Recent"
+msgstr "Recente"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:59
+msgid "Comments"
+msgstr "Commenti"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:176
+msgid "..."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:221
+msgid "Tabbed Widget"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:242
+msgid "Post Type:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:254
+msgid "Popular Posts Tab"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:256
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:334
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:406
+msgid "Show:"
+msgstr "Mostra:"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:258
+msgid "Displaying Popular tab."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:263
+msgid ""
+"The featured is known as the Property Featured or The Sticky Post, depend in "
+"the Post Type."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:332
+msgid "Recent Posts Tab"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:336
+msgid "Displaying Recent tab."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:404
+msgid "Comment Tab"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/SWH_Widget_Tabbed_Posts.php:408
+msgid "Displaying Comment tab."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-envato-protected-api.php:67
+msgid "Please enter your Envato Marketplace Username."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-envato-protected-api.php:71
+msgid "Please enter your Envato Marketplace API Key."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-envato-protected-api.php:96
+msgid "The API \"set\" is a required parameter."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-envato-protected-api.php:167
+msgid "The Envato Marketplace \"item ID\" is a required parameter."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-envato-wordpress-theme-upgrader.php:291
+msgid "Downloading upgrade package from the Envato API&#8230;"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-envato-wordpress-theme-upgrader.php:302
+msgid "Downloading install package from the Envato API&#8230;"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:199
+msgid "Something went wrong."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:211
+msgid "Return to the dashboard"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:213
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:214
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:215
+msgid "Dismiss this notice"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:544
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:2168
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1174
+msgid "Private Repository"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1177
+msgid "Pre-Packaged"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1182
+msgid "WordPress Repository"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1185
+msgid "Required"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1185
+msgid "Recommended"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1188
+msgid "Not Installed"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1190
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1290
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1312
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1379
+msgid "Type"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1508
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1616
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1934
+msgid "Install package not available."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1935
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1936
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1937
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1938
+msgid "Plugin install failed."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1939
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:1950
+msgid "Plugin activation failed."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:2064
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:2065
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:2065
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:2074
+msgid "Show Details"
+msgstr "Mostra Dettagli"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:2065
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:2074
+msgid "Hide Details"
+msgstr "Nascondi Dettagli"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:2066
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:2071
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:2072
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:2073
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:2074
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:2075
+msgid "All installations have been completed."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/includes/class-tgm-plugin-activation.php:2076
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/page-fullwidth.php:19
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/page-leftsidebar.php:20
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-agent.php:15
+msgid "Comment is closed."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/searchform.php:3
+msgid "Search here..."
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:28
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:36
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:42
+msgid "Reviews"
+msgstr "Recensioni"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:58
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:59
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:63
+msgid "Add Your Review"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:63
+msgid "Add Review"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:65
+msgid "Add a review"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:69
+msgid "Be the first to review"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:71
+msgid ""
+"There are no reviews yet, would you like to <a href=\"#review_form\" class="
+"\"inline show_review_form\">submit yours</a>?"
+msgstr ""
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:89
+msgid "Submit Review"
+msgstr "Invia Recensione"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:96
+msgid "Rating"
+msgstr "Voti"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:97
+msgid "Rate&hellip;"
+msgstr "Vota e..."
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:98
+msgid "Perfect"
+msgstr "Perfetto"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:99
+msgid "Good"
+msgstr "Buono"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:100
+msgid "Average"
+msgstr "Medio"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:101
+msgid "Not that bad"
+msgstr "Non proprio male"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:102
+msgid "Very Poor"
+msgstr "Molto povero"
+
+#: C:\Program Files
+#: (x86)\Zend\Apache2\htdocs\wp391\wp-content\themes\sweethome/single-product-reviews.php:107
+msgid "Your Review"
+msgstr "La tua recensione"

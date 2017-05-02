@@ -1,0 +1,18 @@
+.wrapper-woocommerce .post-content{
+	padding: 15px;
+}
+.woocommerce-page .post-content{
+	padding-right: 15px;
+}
+.woocommerce #reviews #comments ol.commentlist{
+    padding: 0px;
+}
+.woocommerce #reviews #comments ol.commentlist li .comment-text{
+    margin: 0 0 0 79px;
+}
+.woocommerce-page div.product #reviews .comment .media-object{
+    float: left;
+}
+.woocommerce #review_form #respond textarea{
+    padding: 10px;
+}

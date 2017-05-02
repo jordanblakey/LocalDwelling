@@ -1,0 +1,263 @@
+/*
+Theme Name: SweetHome
+Theme URI: http://phpface.net
+Author: Toan Nguyen
+Author URI: http://phpface.net
+Description: Sweethome
+Version: 1.0.0
+*/
+body {
+	direction: rtl;
+	unicode-bidi: embed;
+}
+.single-agent .desc-box{
+	direction: rtl;
+}
+#details-slider, #details-carousel, .owl-carousel{
+	direction: ltr;
+}
+blockquote{
+	border-left:none;
+	border-right:5px solid #eee;
+}
+caption,
+th,
+td {
+	text-align: right;
+}
+.wp-caption-text {
+	padding-left: 10px;
+	padding-right: 0;
+}
+
+.screen-reader-text:focus {
+	right: 5px;
+	left: auto;
+}
+/** Header **/
+.pull-left{
+	float:right!important;
+}
+.pull-right{
+	float:left!important;
+}
+header #contact-box a{
+	margin:0px 0px 0px 10px;
+}
+.social-icons li{
+	float:right;
+	margin-left: 5px;
+}
+/** menu **/
+.navbar-right{
+	float:left!important;
+}
+.navbar-nav.navbar-right:last-child{
+	margin-left: -15px;
+}
+.navbar-header{
+	float:right;
+}
+.navbar-nav>li{
+	float:right;
+	margin-right: 8px;
+	margin-left:0;
+}
+/**** slider ****/
+.main-flexslider .slides .slides .slide-box .slide-item-features{
+	float: right;
+	padding-right: 0;
+}
+.main-flexslider .slides .slides .slide-box .slide-item-features li{
+	float: right;
+}
+.main-flexslider .slides .slides .slide-box .slider-buttons-wrapper{
+	float:right;
+}
+.gray-btn span{
+	padding-right:0px;
+	padding-left:7px;
+}
+/** Search form **/
+.search-section .select-wrapper{
+	float:right;
+}
+.search-section .select-target{
+	text-align: right;
+}
+/** HomePage listingn widget **/
+.buttons-wrapper{
+	float:right;
+}
+/** Listing Widget **/
+.title-box{
+	float:right;
+}
+.title-box h3{
+	left:auto;
+	right:0;
+}
+.listing-single-item .item-inner .desc-box .item-features{
+	float:right;
+	padding-right:0;
+}
+.listing-single-item .item-inner .desc-box .item-features li{
+	margin-right: 0px;
+	margin-left: 15px;
+}
+.item-features li{
+	float:right;
+}
+.property-type-icon{
+	left: auto;
+	right: 15px;
+}
+.item-inner .featured {
+	left:auto;
+	right: 25px;
+}
+.item-inner .featured i{
+	margin-right:0px;
+	margin-left:10px;
+}
+
+/** Footer **/
+.bottom-strip .container .col-md-4{
+	float:right;
+}
+footer .container .textwidget p{
+	text-align: right;
+}
+footer .container .col-md-3 ul{
+	padding-left:auto;
+	padding-right:0;
+}
+footer .container .footer-contact-info p{
+	padding-right: 0;
+	padding-left: 10px;	
+}
+footer .container .footer-contact-info p i{
+	margin-right: 0;
+	margin-left: 5px;	
+}
+footer .container .footer-newsletter .footer-search{
+	float:right;
+}
+footer .container .footer-newsletter input[type='submit']{
+	float:left;
+}
+
+/** Contact form **/
+.contact-form-wrapper .contact-form .contact-form-right{
+	float:left;
+}
+.contact-form-wrapper .contact-form .contact-form-left{
+	float:right;
+}
+.contact-form-wrapper .contact-form span{
+	float:right;
+}
+
+/** blog **/
+.blog-page .blog-content .blog-post, .blog-page .blog-content .agent-post{
+	float:right;
+}
+.blog-page .blog-content .blog-post .meta-data{
+	float:right;
+}
+.blog-page .blog-content .blog-post .post-content{
+	padding-left: 0;
+	padding-right: 30px;
+	border-left:none;
+	border-right:1px solid #E5E5E5;
+}
+.blog-page .blog-content .blog-post .post-content h2{
+	margin-right:0px;
+	margin-left:30px;
+}
+.blog-page .blog-content .blog-post .post-content h2 a, .blog-page .blog-content .blog-post .post-content h2{
+	text-align:right;
+}
+/** sidebar **/
+.blog-sidebar{
+	float:right;
+}
+.sidebar-widget{
+	float:right;
+}
+.widget_search .search-box{
+	float:right;
+}
+.widget_search .search-box input[type='text']{
+	float:right;
+}
+.widget_search .search-box button{
+	right: auto;
+	left: 10px;	
+}
+.sidebar-widget ul{
+	padding-left:auto;
+	padding-right:0;
+}
+.tabbed-content #myTab li{
+	border-left:1px solid #CDCDCD;
+	border-right:none;
+}
+
+.tab-content-wrapper .tab-content-item .thumb, .similar-listings .tab-content-item .thumb{
+	margin-right: 0;
+	margin-left: 15px;	
+}
+.wp-tag-cloud li{
+	float:right;
+}
+/** Agent **/
+.single-agent .image-box{
+	float:right;
+}
+.single-agent .desc-box{
+	float:right;
+}
+.single-agent .desc-box .gray-btn{
+	float:right;
+}
+.agents-section .container .agents-slider{
+	float:right;
+}
+.owl-buttons{
+	right: auto;
+	left: 5px;	
+}
+/** property **/
+.property-desc .item-features{
+	padding-right:0;
+}
+.property-desc .item-features li{
+	margin-left:15px;
+	margin-right:0;
+}
+.property-desc .additional-features .features{
+	padding-right:0;
+}
+.property-desc .additional-features .features .single-feature{
+	float:right;
+}
+/** Navigation **/
+.pagination-wrapper{
+	float:right;
+}
+.pagination-wrapper .pagination{
+	float:right;
+}
+.pagination>li{
+	float:right;
+}
+.main-flexslider .flex-direction-nav .flex-prev {
+  left:0 !important;
+  top: 363px !important;
+}
+.main-flexslider .flex-direction-nav .flex-next {
+
+  top:363px !important;
+  left:inherit !important;  
+}
