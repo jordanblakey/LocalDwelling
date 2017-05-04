@@ -451,8 +451,9 @@ form.dsidx-resp-search-form {
     text-transform: none;
     font-weight: 500;
     font-size: 2em !important;
-    width: 35% !important;
-    height: 170px;
+    width: 45% !important;
+    height: 18vw;
+    /*height: 170px;*/
     overflow: hidden;
     margin-right: 1em;
 }
@@ -639,4 +640,35 @@ footer .col-md-3 {
 }
 #backtop-btn{
     display: none !important;
+}
+
+/* CUSTOM */
+
+.dsidx-results-widget.dsidx-widget {
+    margin: 0 auto !important;
+    max-width: 1024px !important;
+    display: flex !important;
+}
+
+h3.widget-title{
+    color: #1C527F;
+    text-decoration: underline;
+    font-size: 23px;
+    font-weight: 500;
+}
+
+.widget_dsidx-listings.dsidx-widget-listings{
+    max-width: 1024px;
+    margin:0 auto 30px;
+}
+
+.featured-listing{
+    background: red !important;
+    -webkit-box-shadow: 0px 2px 8px 0px rgba(0,0,0,0.2);
+-moz-box-shadow: 0px 2px 8px 0px rgba(0,0,0,0.2);
+box-shadow: 0px 2px 8px 0px rgba(0,0,0,0.2);
+}
+
+.dsidx-widget .dsidx-expanded.dsidx-panel{
+    width: 50% !important;
 }
