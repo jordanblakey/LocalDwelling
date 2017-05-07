@@ -1163,3 +1163,195 @@ div.dsidx-results-widget .featured-listing:nth-child(2) {
 .single-agent .desc-box p{
     word-break: break-all;
 }
+
+.agents-section .container .agents-slider {
+    margin-top: 0 !important;
+}
+
+/* BEGIN WORK ON CONTACT PAGE */
+
+.blog-page .blog-content .blog-post, .blog-page .blog-content .agent-post {
+    background: none;
+}
+
+.page-id-20 .content-section {
+    position: relative;
+    top:12rem;
+}
+
+#panel-20-1-1-0, #panel-20-1-1-0 h3{
+    text-align: right !important;
+    margin-bottom: .5rem !important;
+    text-decoration: none;
+    font-weight: 700;
+    text-transform: none;
+    font-size: 1.4rem;
+}
+
+.website-number {
+    margin-top: 1rem;
+}
+
+div#pg-20-0 {
+    margin-bottom: 5rem !important;
+    padding: 0 !important;
+}
+
+#pg-20-1{
+    align-items: flex-start !important;
+    padding: 0 !important;
+}
+#pg-20-1 p{
+    font-size: 1.4rem;
+}
+
+
+.post-20 .post-content{
+    width: 100% !important;
+    padding: 0 !important;
+}
+
+#panel-20-0-0-0 {
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    columns: 2;
+    margin-bottom: 4rem;
+    column-gap: 4rem;
+}
+
+
+.blog-page .blog-content .blog-post .post-content h1 a, .blog-page .blog-content .blog-post .post-content h1, #panel-20-1-0-0 h3 {
+    font-family: 'Poppins',Helvetica,Arial,sans-serif !important;
+    text-align: left;
+    text-transform: uppercase;
+    font-size: 2rem;
+    font-weight: 400;
+    letter-spacing: .1rem;
+    margin-bottom: 1.4rem;
+}
+
+.widget_text p {
+    font-family: 'Poppins',Helvetica,Arial,sans-serif !important;
+}
+
+.website-email a {
+    color: white;
+}
+
+#map {
+    margin-top: 4rem !important;
+    height: 30rem !important;
+}
+
+/* CONTACT PAGE FORM */
+legend, .legend{
+    display: none;
+}
+
+#panel-20-1-0-0 h3{
+    text-transform: capitalize !important;
+    text-decoration: none;
+    font-size: 2rem !important;
+    margin-bottom: 1rem !important;
+}
+
+#panel-20-1-0-0 h3::after {
+    content: 'Find out more about this listing!';
+    display: block;
+    font-size: 1.4rem;
+    letter-spacing: 0;
+    line-height: 3rem;
+}
+
+#footer-contact-info-3, #footer-newsletter-3 {
+    margin-top: 2rem;
+}
+
+#contactUsFieldset th {
+    display: none;
+}
+
+#panel-20-1-0-0 input.text, #panel-20-1-0-0 textarea {
+    padding: .5rem;
+    margin-bottom: 1rem !important;
+    border: 1px solid #ccc;
+    font-weight: 300 !important;
+    border-radius: 0 !important;
+    box-shadow: none;
+    font-size: 1.3rem !important;
+    color:black !important;
+}
+
+#panel-20-1-0-0 textarea{
+    margin-bottom: 0 !important;
+}
+
+#panel-20-1-0-0 input.button {
+    background: #323943;
+    color: white;
+    padding: 0.75rem 6rem .5rem;
+    border: 0;
+}
+
+.primaryButtons{
+    text-align: left !important;
+    margin: 0 !important;
+}
+
+form#contactUsForm {
+    margin-bottom: 3rem;
+}
+
+#panel-20-0-0-0{
+    padding: 2em;
+width: 100% !important;
+position: relative;
+min-height: 6em;
+z-index: 2;
+background: rgba(0, 0, 0, 0.5);
+display: flex;
+ms-flex-direction: row !important;
+webkit-flex-direction: row !important;
+flex-direction: row !important;
+align-items: center !important;
+justify-content: center;
+
+position: absolute;
+left: -62px;
+top: -32px;
+width: 100vw !important;
+}
+
+#panel-20-0-0-0 h3 {
+    display: none;
+}
+
+#panel-20-0-0-0 .dsidx-resp-area-submit input[type="submit"], #panel-20-0-0-0 .dsidx-resp-area.dsidx-resp-location-area input, #panel-20-0-0-0 .dsidx-price, #panel-20-0-0-0 .dsidx-resp-select, #panel-20-0-0-0 .dsidx-beds, #panel-20-0-0-0 .dsidx-baths{
+    font-size: 1.4rem;
+    padding: 1rem;
+    line-height: 2rem;
+}
+
+#panel-20-0-0-0 .dsidx-resp-price, #panel-20-0-0-0 .dsidx-resp-type, #panel-20-0-0-0 .dsidx-resp-location, #panel-20-0-0-0 label.dsidx-resp-submit, #panel-20-0-0-0 .dsidx-resp-area label {
+    font-size: 1.3rem !important;
+    font-weight: 500;
+    line-height: 1.6em;
+    display: inline-block;
+    padding-left: 1em;
+}
+
+header #contact-box a, .social-icons li a {
+    color: white;
+}
+
+.dsidx-resp-search-form fieldset {
+    border: 0;
+    /* display: inline-block; */
+    padding: 0;
+    height: 6em;
+    margin: 0;
+}
+
+.post-content h1 {
+    margin-top: 9em;
+}
