@@ -674,17 +674,60 @@ padding-top:0 !important;
     width: 100%;
 }
 
+.homes-for-sale .dsidx-results-widget .dsidx-expanded .featured-listing, .homes-for-lease .dsidx-results-widget .dsidx-expanded .featured-listing{
+}
+
+div.dsidx-results-widget ul{padding:0;}
+
+div.dsidx-results-widget .featured-listing h4, div.dsidx-results-widget .featured-listing ul {
+    padding:0;
+    margin:0;
+    float:right;
+    width: 50% !important;
+    margin: 0 5% 0 5% !important;
+}
+
+div.dsidx-results-widget .featured-listing ul:last-child{
+    margin-bottom: 2em !important;
+}
+
+div.dsidx-results-widget .featured-listing h4{
+    padding-bottom: 1em !important;
+    margin-bottom: 1em !important;
+    margin-top: 2em !important;
+    border-bottom: 1px solid #ccc;
+}
+
 div.dsidx-results-widget .featured-listing h4 a  {
     font-size: 2em !important;
     line-height: 1.4em !important;
     color: #1c527f;
     font-weight: 300;
     text-transform: none;
+    margin: 0 !important;
 }
 
 div.dsidx-results-widget .featured-listing ul li {
     font-size:1.2em !important;
-    line-height: 2em !important;
+    line-height: 1.6em !important;
+}
+
+div.dsidx-results-widget .dsidx-panel .dsidx-photo::before{
+    content: "Featured Listing";
+    position: absolute;
+    text-transform: uppercase;
+    color: white;
+    font-size: .5em;
+    display: block;
+    background: rgba(0,0,0,.5);
+    width: 100%;
+    text-align: center;
+    padding:.5em 1em;
+    letter-spacing: .1em;
+}
+
+*{
+    font-family: 'Poppins',Helvetica,Arial,sans-serif !important;
 }
 
 div.dsidx-results-widget .dsidx-panel .dsidx-photo {
@@ -692,16 +735,20 @@ div.dsidx-results-widget .dsidx-panel .dsidx-photo {
     top:0;
     position: relative;
     width: auto;
-    height: 12vw;
-    max-width: 16vw !important;
+    max-width: 40% !important;
+    display: flex;
+    justify-content: center;
 }
 
 div.dsidx-results-widget .dsidx-panel .dsidx-photo img{
     height:100%;
+    border: 0 !important;
+
 }
 
 .homes-for-sale .dsidx-results-widget .dsidx-expanded .featured-listing a,
 .homes-for-lease .dsidx-results-widget .dsidx-expanded .featured-listing a{
-    height:12vw;
-    max-width: 16vw !important;
+    height:100%;
+    max-width: 40% !important;
+    margin: 0;
 }
