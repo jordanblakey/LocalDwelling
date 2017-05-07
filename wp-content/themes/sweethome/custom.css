@@ -715,9 +715,9 @@ div.dsidx-results-widget .featured-listing h4 a  {
     font-weight: 300 !important;
     text-transform: none;
     margin: 0 !important;
-    margin-bottom: .3rem !important;
+    /*margin-bottom: .3rem !important;
     padding-bottom: 1.6rem !important;
-    border-bottom: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;*/
     display: block;
     max-width: none !important;
     width: 100% !important;
@@ -728,7 +728,7 @@ div.dsidx-results-widget .featured-listing ul li {
     line-height: 1.6em !important;
 }
 
-div.dsidx-results-widget .dsidx-panel .dsidx-photo::before{
+/*div.dsidx-results-widget .dsidx-panel .dsidx-photo::before{
     content: "Featured Listing";
     position: absolute;
     text-transform: uppercase;
@@ -743,7 +743,7 @@ div.dsidx-results-widget .dsidx-panel .dsidx-photo::before{
     letter-spacing: .15em;
     line-height: 1.5rem;
     padding: 1rem;
-}
+}*/
 
 *, :not('fa'){
     font-family: 'Poppins',Helvetica,Arial,sans-serif !important;
@@ -814,17 +814,17 @@ div.dsidx-results-widget .dsidx-panel .dsidx-photo img{
 }
 
 div.dsidx-results-widget .featured-listing:nth-child(odd){
-    width:calc(50% - ( 0.5 * 30px ) );
+    width:calc(33% - ( 0.5 * 30px ) );
     float:left;
     /*clear: both;*/
 }
 div.dsidx-results-widget .featured-listing:nth-child(even){
-    width:calc(50% - ( 0.5 * 30px ) );
+    width:calc(33% - ( 0.5 * 30px ) );
     float:right;
 }
 
 div.dsidx-results-widget .featured-listing:nth-child(n+3){
-    margin-top: 3rem!important;
+    /*margin-top: 3rem!important;*/
 }
 
 div.dsidx-results-widget .featured-listing{
@@ -850,7 +850,7 @@ div.dsidx-results-widget .dsidx-panel .dsidx-photo {
     width: 100% !important;
     display: flex !important;
     flex-direction: column !important;
-    justify-content: flex-start !important;
+    justify-content: center !important;
     align-items: center !important;
     position: absolute !important;
     overflow: hidden;
@@ -1148,7 +1148,6 @@ div.dsidx-results-widget .featured-listing:nth-child(2) {
     overflow: hidden;
     white-space: normal;
     margin: 15px 0;
-    border-top: 3rem solid #f6f6f6;
 }
 
 .listing-single-item {
@@ -1450,4 +1449,90 @@ form.dsidx-resp-search-form {
             padding: 0 3rem;
     }
 
+}
+
+/* LATEST REAL ESTATE -> FEATURED LISTINGS */
+div.dsidx-results-widget .dsidx-panel .dsidx-photo {
+    float: none !important;
+    max-width: 100% !important;
+    width: 100% !important;
+    height: 30rem !important ;
+}
+
+div.dsidx-results-widget .featured-listing h4, div.dsidx-results-widget .featured-listing ul{
+    width: 100% !important;
+}
+
+div.dsidx-results-widget .featured-listing ul li {
+    display: inline-block;
+    margin: 0 3rem 0 0 !important;
+}
+
+.dsidx-photo span:first-child {
+position: absolute;
+text-transform: uppercase;
+color: white;
+font-size: 1.6rem;
+display: block;
+background: rgba(0,0,0,.5);
+width: 100%;
+text-align: center;
+font-weight: 100 !important;
+letter-spacing: .15em;
+line-height: 2rem;
+padding: 1.2rem 1rem 1rem;
+font-family: 'Poppins',Helvetica,Arial,sans-serif !important;
+top: 0px;
+}
+
+div.dsidx-results-widget ul li.price {
+    width: 100% !important;
+    display: block !important;
+    padding-top: 1.6rem !important;
+    margin-top: 1.6rem !important;
+    border-top: 1px solid #ccc;
+    font-size: 3rem !important;
+}
+
+.featured-listing {
+    font-family: 'Poppins',Helvetica,Arial,sans-serif !important;
+}
+
+div.dsidx-results-widget .featured-listing ul {
+    /*width: auto !important;
+    display: inline-block;*/
+}
+
+.dsidx-widget .dsidx-expanded.dsidx-panel {
+    width: 100%;
+    display: flex !important;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+div.dsidx-results-widget .featured-listing {
+    margin-bottom: 3rem !important;
+}
+
+div.dsidx-results-widget .dsidx-panel .dsidx-photo img{
+    min-width: 100% !important;
+    height: auto !important;
+    min-height: 100% !important;
+    width: auto !important;
+}
+
+.list-types.panel-row-style.panel-row-style-for-74-1 {
+    padding-top: 0;
+}
+
+#pgc-74-1-0 {
+    margin-bottom: 0 !important;
+}
+
+#pgc-74-1-0, #pgc-74-1-1 {
+    margin-top: 8rem !important;
+}
+
+.agents-section{
+    margin-top: 8rem !important;
 }

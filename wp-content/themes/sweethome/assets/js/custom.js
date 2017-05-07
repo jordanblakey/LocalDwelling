@@ -47,7 +47,7 @@ $('.dsidx-photo img').attr('style', 'max-width: none !important');
         $('.dsidx-expanded .featured-listing').matchHeight();
 
         //
-
+        $(".dsidx-photo").prepend('<span><i class="fa fa-star"></i> Featured Listing</span>');
 
 	})
 
