@@ -17,7 +17,7 @@ header{
     top: 0;
     z-index: 3;
     width: 100%;
-    background-color: rgba(22,22,22,0.7);
+    background-color: rgba(26,31,39,0.8);
 
 }
 header #top-strip {
@@ -185,7 +185,7 @@ transform: translate(-50%, -50%);
 }
 .main-flexslider .slides .slides .slide-box{
     color: white;
-    background: rgba(0,0,0,0.7);
+    background-color: rgba(26,31,39,0.8);
     width: 60vw;
 }
 .main-flexslider .slides .slides .slide-box p,
@@ -212,7 +212,7 @@ transform: translate(-50%, -50%);
 }
 .main-flexslider .slides .slides .slide-box{
     color: white;
-    background: rgba(0,0,0,0.7) !important;
+    background-color: rgba(26,31,39,0.8);
 }
 .main-flexslider .slides .slides .slide-box p {
     margin: 0 0 0.1em;
@@ -270,10 +270,13 @@ transform: translate(-50%, -50%);
         width: 100% !important;
     }
 
-    .dsidx-resp-area {margin-bottom: 1em;}
+    .dsidx-resp-area {
+        margin-bottom: 1em;
+    }
+
     #pg-74-0 {
         top: 15em !important;
-        background: rgba(0, 0, 0, 0.8) !important;
+        background: rgba(51, 59, 69, 0.8) !important;
     }
 
     #pg-74-1{margin-top: 15em !important;position: relative;}
@@ -314,7 +317,7 @@ transform: translate(-50%, -50%);
     position: relative;
     min-height:15em;
     z-index: 2;
-    background: rgba(0, 0, 0, 0.5);
+            background: rgba(51, 59, 69, 0.8) !important;
     display: flex;
     ms-flex-direction: row !important;
     webkit-flex-direction: row !important;
@@ -1636,4 +1639,13 @@ ul#menu-header-menu li a {
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
     border: 0 !important;
+}
+
+
+.dsidx-resp-area-submit input[type="submit"] {
+    background-color: #D6B064 !important;
+    color: white;
+    font-weight: 500;
+    font-size: 1.4rem;
+    line-height: 2.4rem;
 }
