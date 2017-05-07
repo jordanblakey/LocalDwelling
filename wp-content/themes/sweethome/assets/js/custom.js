@@ -44,6 +44,9 @@ $('.dsidx-photo img').attr('style', 'max-width: none !important');
         });
 
         // Centering Slider images
+        $('.dsidx-expanded .featured-listing').matchHeight();
+
+        //
 
 
 	})

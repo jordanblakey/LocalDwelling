@@ -22,6 +22,7 @@
 <?php global $sweethome;?>
 <?php wp_head();?>
 <link rel='stylesheet' id='style-css'  href='<?php echo get_template_directory_uri(); ?>/custom.css' type='text/css' media='all' />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
 </head>
 <body id="top" <?php body_class();?>>
 <header>
