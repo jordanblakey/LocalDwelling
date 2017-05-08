@@ -1234,6 +1234,7 @@ div#pg-20-0 {
     font-weight: 400;
     letter-spacing: .1rem;
     margin-bottom: 1.4rem;
+    line-height: 4rem;
 }
 
 .widget_text p {
@@ -1311,7 +1312,7 @@ form#contactUsForm {
     margin-bottom: 3rem;
 }
 
-#panel-20-0-0-0, #dsidx-quicksearch-2 {
+#panel-20-0-0-0, #dsidx-quicksearch-2, #dsidx-quicksearch-3 {
 
     padding: 3rem 4rem;
     width: 100% !important;
@@ -2029,4 +2030,115 @@ li.dsidx-prop-summary .dsidx-prop-title div a {
 
 .dsidx-prop-features {
     margin-bottom: 2rem !important;
+}
+
+div#dsidx-quicksearch-3 h2 {
+    display: none;
+}
+
+#dsidx-profile-header {
+    float: left;
+}
+
+#dsidx-profile-header, #dsidx-actions {
+    background: black;
+}
+
+div#dsidx-profile-header a, #dsidx-actions a {
+    color: white;
+    font-family: 'Poppins',Helvetica,Arial,sans-serif !important;
+    text-transform: capitalize;
+    font-weight: 300;
+    font-size: 1.6rem;
+    /*padding: 0rem 1rem 1.25rem 0;*/
+}
+
+#dsidx-share-choose {
+        color: black !important;
+        font-family: 'Poppins',Helvetica,Arial,sans-serif !important;
+        text-transform: capitalize;
+        font-weight: 300 !important;
+        font-size: 1.2rem !important;
+}
+
+div#dsidx-profile-header a .dsidx-profile-dropicon,  #dsidx-actions a .dsidx-profile-dropicon, .dsidx-share-dropicon {
+    filter: invert(1);
+    filter: brightness(10);
+    margin-left: 6px !important;
+}
+
+#dsidx-profile-header, #dsidx-actions {
+    background: rgba(51, 59, 69, 0.9) !important;
+    width: 100%;
+    padding: 0 2rem 0 2rem;
+}
+
+#dsidx-profile-header {
+    padding: 1rem 2rem 1rem 2rem;
+}
+
+#dsidx-actions {
+    padding: 0 2rem 1rem 2rem;
+}
+
+.dsidx-profile-button-divet-left {
+    display: none;
+}
+
+#dsidx-share-choose a {
+    color: black;
+    font-size: 1.2rem;
+    line-height: 2rem;
+    /* vertical-align: top; */
+}
+
+#dsidx-share-choose a:hover {
+    text-decoration: none;
+}
+
+#dsidx .dsidx-large-button, body.dsidx .dsidx-large-button {
+    background: rgba(51, 59, 69, 1) !important;
+    border: none;
+    border-radius: 0;
+    font-family: 'Poppins',Helvetica,Arial,sans-serif !important;
+    font-weight: 400;
+    text-transform: capitalize;
+    font-size: 1.4rem;
+    padding: .5rem 2rem;
+    height: auto;
+}
+
+.dsidx-details, .dsidx-header-title, .dsidx-details .dsidx-contact-form table td.column-one {
+    font-family: 'Poppins',Helvetica,Arial,sans-serif !important;
+}
+
+#dsidx th {
+    text-transform: lowercase;
+}
+
+#dsidx th::first-letter {
+    text-transform: uppercase;
+}
+
+#dsidx-description-text {
+    font-size: 1.4rem;
+    font-weight: 500;
+}
+
+.dsidx-details #dsidx-header table td {
+    padding: 0;
+}
+
+.jb-dt-main-frame img {
+    max-width: none;
+    min-width: 100% !important;
+}
+
+.jb-dt-main-frame .jb-dt-main-image {
+    min-width: 100% !important;
+    left: 0 !important
+}
+
+.jb-flag-large-screen-mode .jb-thm-thumb-selected .jb-idx-thb-frame {
+    border-width: 100px !important;
 }

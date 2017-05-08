@@ -81,8 +81,8 @@ if( !function_exists( 'swh_after_setup_theme' ) ){
 }
 if( !function_exists('swh_enqueue_scripts') ){
 	/**
-	 * Enqueue the scripts and styles
-	 */
+	* Enqueue the scripts and styles
+	*/
 	function swh_enqueue_scripts() {
 		global $sweethome;
 		/** enqueue styles **/
@@ -148,78 +148,105 @@ if( !function_exists('swh_admin_enqueue_scripts') ){
 }
 if( !function_exists('swh_register_my_menus') ){
 	/**
-	 * Register the header menu navigation.
-	 */
+	* Register the header menu navigation.
+	*/
 	function swh_register_my_menus() {
-	  register_nav_menus(
-	    array(
-	    	'header_main_navigation' => __('Home Page Navigation','swh'),
-	    )
-	  );
+		register_nav_menus(
+			array(
+				'header_main_navigation' => __('Home Page Navigation','swh'),
+				)
+			);
+		}
+		add_action( 'init', 'swh_register_my_menus' );
 	}
-	add_action( 'init', 'swh_register_my_menus' );
-}
-/**
- * Register 5 widget areas.
- */
-if( !function_exists('swh_widgets_init') ){
-	function swh_widgets_init() {
-		register_sidebar(
-			$args = array(
-				'name'          => __( 'Right Post/Page Sidebar', 'swh' ),
-				'id'            => 'swh-right-sidebar-post',
-				'description'   => __('Display the widgets on the Right Post/Page/Category/Archive Sidebar','swh'),
-				'before_widget' => '<div id="%1$s" class="sidebar-widget %2$s">',
-				'after_widget'  => '</div>',
-				'before_title' => '<h4 class="widget-title">',
-				'after_title' => '</h4>',
-			)
-		);
-		register_sidebar(
-			$args = array(
-				'name'          => __( 'Right Property Sidebar', 'swh' ),
-				'id'            => 'swh-right-sidebar-property',
-				'description'   => __('Display the widgets on the Right Property Sidebar','swh'),
-				'before_widget' => '<div id="%1$s" class="sidebar-widget %2$s">',
-				'after_widget'  => '</div>',
-				'before_title' => '<h4 class="widget-title">',
-				'after_title' => '</h4>',
-			)
-		);
-		register_sidebar(
-			$args = array(
-				'name'          => __( 'Right Agent Sidebar', 'swh' ),
-				'id'            => 'swh-right-sidebar-agent',
-				'description'   => __('Display the widgets on the Right Agent Sidebar','swh'),
-				'before_widget' => '<div id="%1$s" class="sidebar-widget %2$s">',
-				'after_widget'  => '</div>',
-				'before_title' => '<h4 class="widget-title">',
-				'after_title' => '</h4>',
-			)
-		);
-		register_sidebar(
-			$args = array(
-				'name'          => __( 'Header Sidebar', 'swh' ),
-				'id'            => 'swh-header-sidebar',
-				'description'   => __('Display the Breadcrumb/Property Slider','swh'),
-				'before_widget' => NULL,
-				'after_widget'  => NULL,
-				'before_title' => NULL,
-				'after_title' => NULL,
-			)
-		);
-		register_sidebar(
-			$args = array(
-				'name'          => __( 'Footer Sidebar', 'swh' ),
-				'id'            => 'swh-footer-sidebar',
-				'description'   => __('Display the widgets on the Footer Sidebar','swh'),
-				'before_widget' => '<div id="%1$s" class="col-md-3 %2$s">',
-				'after_widget'  => '</div>',
-				'before_title' => '<h3 class="footer-title">',
-				'after_title' => '</h3>',
-			)
-		);
+	/**
+	* Register 5 widget areas.
+	*/
+	if( !function_exists('swh_widgets_init') ){
+		function swh_widgets_init() {
+			register_sidebar(
+				$args = array(
+					'name'          => __( 'Right Post/Page Sidebar', 'swh' ),
+					'id'            => 'swh-right-sidebar-post',
+					'description'   => __('Display the widgets on the Right Post/Page/Category/Archive Sidebar','swh'),
+					'before_widget' => '<div id="%1$s" class="sidebar-widget %2$s">',
+					'after_widget'  => '</div>',
+					'before_title' => '<h4 class="widget-title">',
+					'after_title' => '</h4>',
+					)
+				);
+				register_sidebar(
+					$args = array(
+						'name'          => __( 'Right Property Sidebar', 'swh' ),
+						'id'            => 'swh-right-sidebar-property',
+						'description'   => __('Display the widgets on the Right Property Sidebar','swh'),
+						'before_widget' => '<div id="%1$s" class="sidebar-widget %2$s">',
+						'after_widget'  => '</div>',
+						'before_title' => '<h4 class="widget-title">',
+						'after_title' => '</h4>',
+						)
+					);
+					register_sidebar(
+						$args = array(
+							'name'          => __( 'Right Agent Sidebar', 'swh' ),
+							'id'            => 'swh-right-sidebar-agent',
+							'description'   => __('Display the widgets on the Right Agent Sidebar','swh'),
+							'before_widget' => '<div id="%1$s" class="sidebar-widget %2$s">',
+							'after_widget'  => '</div>',
+							'before_title' => '<h4 class="widget-title">',
+							'after_title' => '</h4>',
+							)
+						);
+						register_sidebar(
+							$args = array(
+								'name'          => __( 'Header Sidebar', 'swh' ),
+								'id'            => 'swh-header-sidebar',
+								'description'   => __('Display the Breadcrumb/Property Slider','swh'),
+								'before_widget' => NULL,
+								'after_widget'  => NULL,
+								'before_title' => NULL,
+								'after_title' => NULL,
+								)
+							);
+							register_sidebar(
+								$args = array(
+									'name'          => __( 'Footer Sidebar', 'swh' ),
+									'id'            => 'swh-footer-sidebar',
+									'description'   => __('Display the widgets on the Footer Sidebar','swh'),
+									'before_widget' => '<div id="%1$s" class="col-md-3 %2$s">',
+									'after_widget'  => '</div>',
+									'before_title' => '<h3 class="footer-title">',
+									'after_title' => '</h3>',
+									)
+								);
+								register_sidebars( 1,
+								array(
+									'name' => 'widgetized-page-top',
+									'before_widget' => '
+									<div id="%1$s" class="widget %2$s">',
+									'after_widget' => '</div>
+									',
+									'before_title' => '
+									<h2 class="widgettitle">',
+									'after_title' => '</h2>
+									'
+								)
+							);
 
-	}
-	add_action( 'widgets_init', 'swh_widgets_init' );
-}
+							register_sidebars( 1,
+							array(
+								'name' => 'widgetized-page-bottom',
+								'before_widget' => '
+								<div id="%1$s" class="widget %2$s">',
+								'after_widget' => '</div>
+								',
+								'before_title' => '
+								<h2 class="widgettitle">',
+								'after_title' => '</h2>
+								'
+							)
+						);
+
+					}
+					add_action( 'widgets_init', 'swh_widgets_init' );
+				}

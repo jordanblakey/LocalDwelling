@@ -51,11 +51,15 @@ $('.dsidx-photo img').attr('style', 'max-width: none !important');
 
         // Append Search to body
         $('#dsidx-quicksearch-2').appendTo("header");
+        $('#dsidx-quicksearch-3').appendTo("header");
 
         // Fixing a bug with mobile menu persisting on window resize
         $( window ).resize(function(){
             $('#bs-example-navbar-collapse-1').removeClass('in');
-        })  ;
+        });
+
+        // Sentence case listing table headers
+
 
 	})
 
