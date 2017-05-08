@@ -22,7 +22,11 @@
 <?php global $sweethome;?>
 <?php wp_head();?>
 <link rel='stylesheet' id='style-css'  href='<?php echo get_template_directory_uri(); ?>/custom.css' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.matchHeight/0.7.2/jquery.matchHeight-min.js"></script>
+<script src="https://use.fontawesome.com/31ed907821.js"></script>
+
+
 </head>
 <body id="top" <?php body_class();?>>
 <header>

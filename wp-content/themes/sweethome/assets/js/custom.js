@@ -46,8 +46,16 @@ $('.dsidx-photo img').attr('style', 'max-width: none !important');
         // Centering Slider images
         $('.dsidx-expanded .featured-listing').matchHeight();
 
-        //
+        // Featured Listing Labels on Home Page
         $(".dsidx-photo").prepend('<span><i class="fa fa-star"></i> Featured Listing</span>');
+
+        // Append Search to body
+        $('#dsidx-quicksearch-2').appendTo("header");
+
+        // Fixing a bug with mobile menu persisting on window resize
+        $( window ).resize(function(){
+            $('#bs-example-navbar-collapse-1').removeClass('in');
+        })  ;
 
 	})
 
