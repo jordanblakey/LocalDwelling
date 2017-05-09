@@ -837,7 +837,7 @@ div.dsidx-results-widget .featured-listing{
     align-items: flex-start !important;
 }
 
-.homes-for-sale:hover, .homes-for-lease:hover, div.dsidx-results-widget .featured-listing:hover, .listing-single-item:hover, li.dsidx-prop-summary:hover{
+.homes-for-sale:hover, .homes-for-lease:hover, div.dsidx-results-widget .featured-listing:hover, .listing-single-item:hover, li.dsidx-prop-summary:hover .col-md-8.page-content:hover{
     -webkit-box-shadow: 0px 10px 32px 0px rgba(0,0,0,0.08) !important;
     -moz-box-shadow: 0px 10px 32px 0px rgba(0,0,0,0.08) !important;
     box-shadow: 0px 10px 32px 0px rgba(0,0,0,0.08) !important;
@@ -1457,7 +1457,7 @@ div.dsidx-results-widget .dsidx-panel .dsidx-photo {
     float: none !important;
     max-width: 100% !important;
     width: 100% !important;
-    height: 30rem !important ;
+    height: 22rem !important ;
 }
 
 div.dsidx-results-widget .featured-listing h4, div.dsidx-results-widget .featured-listing ul{
@@ -2160,4 +2160,23 @@ div#dsidx-profile-header a .dsidx-profile-dropicon,  #dsidx-actions a .dsidx-pro
 #premium-bar nav li a:hover {
     background: black !important;
     color: white !important;
+}
+
+footer .container .footer-newsletter input[type='text'] {
+    color: black;
+}
+
+.sidebar-widget img {
+    min-width: 100%;
+    min-height: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+#dsidx-quicksearch-2{
+    padding-right: 4rem !important;
+}
+
+.main-flexslider .slides .slides .slide-box p span {
+    display: none;
 }

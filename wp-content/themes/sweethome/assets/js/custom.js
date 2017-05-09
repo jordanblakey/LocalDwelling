@@ -58,8 +58,6 @@ $('.dsidx-photo img').attr('style', 'max-width: none !important');
             $('#bs-example-navbar-collapse-1').removeClass('in');
         });
 
-        // Sentence case listing table headers
-
 
 
 	})
