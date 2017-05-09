@@ -61,6 +61,7 @@ $('.dsidx-photo img').attr('style', 'max-width: none !important');
         // Sentence case listing table headers
 
 
+
 	})
 
 

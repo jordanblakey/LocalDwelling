@@ -837,7 +837,7 @@ div.dsidx-results-widget .featured-listing{
     align-items: flex-start !important;
 }
 
-.homes-for-sale:hover, .homes-for-lease:hover, div.dsidx-results-widget .featured-listing:hover, .listing-single-item:hover{
+.homes-for-sale:hover, .homes-for-lease:hover, div.dsidx-results-widget .featured-listing:hover, .listing-single-item:hover, li.dsidx-prop-summary:hover{
     -webkit-box-shadow: 0px 10px 32px 0px rgba(0,0,0,0.08) !important;
     -moz-box-shadow: 0px 10px 32px 0px rgba(0,0,0,0.08) !important;
     box-shadow: 0px 10px 32px 0px rgba(0,0,0,0.08) !important;
@@ -845,6 +845,8 @@ div.dsidx-results-widget .featured-listing{
     transform: translateY(-1px);
 
 }
+
+
 
 
 }
@@ -2010,7 +2012,7 @@ li.dsidx-prop-summary .dsidx-prop-title div a {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    height: 22rem;
+    height: 23rem;
     min-height: 100% !important;
 }
 
@@ -2019,7 +2021,7 @@ li.dsidx-prop-summary .dsidx-prop-title div a {
     width: 40% !important;
 }
 
-.page-id-259 .post-content p, .page-id-259 .post-content a {
+.page-id-256 .post-content p, .page-id-256 .post-content a, .page-id-259 .post-content p, .page-id-259 .post-content a, .page-id-255 .post-content p, .page-id-255 .post-content a {
     padding-right: 0px;
     font-size: 2rem;
 }
@@ -2141,4 +2143,21 @@ div#dsidx-profile-header a .dsidx-profile-dropicon,  #dsidx-actions a .dsidx-pro
 
 .jb-flag-large-screen-mode .jb-thm-thumb-selected .jb-idx-thb-frame {
     border-width: 100px !important;
+}
+
+.blog-page .blog-content .blog-post .post-content {
+    padding-left: 0 !important;
+}
+
+#pg-255-1{
+    padding: 0!important;
+}
+
+#pg-255-0{
+    display: none !important;
+}
+
+#premium-bar nav li a:hover {
+    background: black !important;
+    color: white !important;
 }
